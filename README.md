@@ -9,10 +9,10 @@ Lastly, I'd like to state that I don't think the way the roles are described in 
 I'd appreciate any suggestions as well. 
 Thanks!
 
-##Individual Contributor Track Competency Matrix
+## Individual Contributor Track Competency Matrix
 
 * [CSV File](https://github.com/angelabassa/data-science-competency-matrix/blob/master/DRAFT%20IC%20Data%20Sci%20Competency%20Matrix%20-%20AB%202019.csv)
 
-##Manager Track Competency Matrix
+## Manager Track Competency Matrix
 
 * [CSV File](https://github.com/angelabassa/data-science-competency-matrix/blob/master/DRAFT%20Mgmt%20Data%20Sci%20Competency%20Matrix%20-%20AB%202019.csv)
